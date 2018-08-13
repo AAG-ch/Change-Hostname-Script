@@ -6,4 +6,5 @@ Script for updating Ubuntu hostname. Read /etc/hostname for current hostname and
 ```
 $ chmod +x change-hostname.sh
 $ sudo change-hostname.sh newhostname
+$ reboot
 ```
